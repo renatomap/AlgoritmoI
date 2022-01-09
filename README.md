@@ -1,2 +1,2 @@
 # AlgoritmoI
- Resoluções das questões do Uri Online Judge
+ Resoluções das questões de 1000 a 1117 do Uri Online Judge 
